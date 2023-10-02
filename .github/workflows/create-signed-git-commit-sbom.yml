@@ -39,7 +39,6 @@ jobs:
         scribe-client-id: ${{ secrets.CLIENT_ID }}
         scribe-client-secret: ${{ secrets.CLIENT_SECRET }}
         label: is_git_commit
-        format: attest
         product-version: "0.0.1"
         
         author-name: $AUTHOR_NAME
