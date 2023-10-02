@@ -16,3 +16,4 @@ jobs:
         scribe-enable: true
         scribe-client-id: ${{ secrets.CLIENT_ID }}
         scribe-client-secret: ${{ secrets.CLIENT_SECRET }}
+        format: attest
