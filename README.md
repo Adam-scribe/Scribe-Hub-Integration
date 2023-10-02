@@ -1,3 +1,2 @@
 # Scribe-Hub-Integration
 
-Text
